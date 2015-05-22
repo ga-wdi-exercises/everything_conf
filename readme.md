@@ -17,7 +17,7 @@ On thursday and friday of the coming week(28 May and 29 May), we'll be having Wh
 - At General Assembly, we're not trying to teach you how to just code. The idea is to make you a well rounded web developer. With that entails many things:
   - the ability to articulate something well to others, whether it's code or otherwise
   - the ability to research a point of interest and figure out what's important
-  -
+  - thus far we've only presented in groups or science fair style. Ideally we want to place you in a "pseudo" nerve racking situation in a safe environment while here at GA. Which ultimately will help you speak solitarily in front of others in various other "high pressure" situations.
 
 ## Weekend Homework
 - Create a repo for your presentation which will contain everything file based you will use barring external props(which are encouraged!)
