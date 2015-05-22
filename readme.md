@@ -22,3 +22,6 @@ On thursday and friday of the coming week(28 May and 29 May), we'll be having Wh
 ## Weekend Homework
 - Create a repo for your presentation which will contain everything file based you will use barring external props(which are encouraged!)
 - In the repo have at the least a `readme.md` with learning objectives for your presentation
+
+## Additional Homework
+Think about what you want to do for your final project. You will be asked to submit a project idea on monday.
