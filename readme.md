@@ -10,7 +10,7 @@ On thursday and friday of the coming week(28 May and 29 May), we'll be having Wh
 
 ## Description of Talk
 - Be creative! This is your chance to show/present to everyone something awesome! It doesn't have to be about code, but it can be.
-- Presentations will be given on Thursday and Friday. There will be signup sheets posted Monday on a "first come, first serve" basis.
+- Presentations will be given on Thursday and Friday. There will be signup sheets posted Tuesday on a "first come, first serve" basis.
 - Plan on presenting for 12 minutes /w 3 minute Q & A to follow
 
 ## Why are we doing this? How will this make us better at coding?
