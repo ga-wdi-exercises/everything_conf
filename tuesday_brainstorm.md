@@ -9,8 +9,7 @@ You have an idea and some learning objectives. Fantastic. Find a partner and sta
   - focused clearly
   - actionable
   - interesting
-  - takeaways
+  - takeaways (something the audience should remember)
 - Structure
   - General layout of presentation
   - time constraints
-- Flow - General delivery of presentation
