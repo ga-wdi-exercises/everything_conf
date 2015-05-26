@@ -10,6 +10,6 @@ You have an idea and some learning objectives. Fantastic. Find a partner and sta
   - actionable
   - interesting
   - takeaways (something the audience should remember)
-- Structure
+- Structure & Flow
   - General layout of presentation
   - time constraints
