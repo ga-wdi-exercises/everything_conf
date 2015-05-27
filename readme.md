@@ -2,6 +2,10 @@
 
 On Thursday and Friday of the coming week(28 May and 29 May), we'll be having Everything Conf at General Assembly. This is an opportunity for you as students to teach everyone else a little bit about something.
 
+The schedule and sign-up sheet:
+
+https://docs.google.com/spreadsheets/d/1pOm9aEwRhnsda0HtBFgeTSjZ9qt3bOUhmRhJ1khn8ms/edit#gid=0
+
 ## Objectives for Everything Conf
 - Get practice getting up in front of people and talking about something, anything!
 - Learn something new or dive deeper into something you’re passionate about
